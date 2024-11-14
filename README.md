@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning JetPack Compose ...
 - :sweat: Currently seeking new opportunities in a programming career.
 - :love_letter: I'm excited to build amazing mobile experiences. Let's collaborate!
-- :blush: Check out my professional profile [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rangel-arnon-boracki-girardi-896565121/)
+- :blush: Check out my professional profile
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rangel-arnon-boracki-girardi-896565121/)
 
 ![RangelGirardi GitHub stats](https://github-readme-stats.vercel.app/api?username=rangelgirardi&show_icons=true&theme=transparent)
 <!---
